@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/UI.unity
+    guid: faf5624156700ff469af3604c75d7ca5
+  - enabled: 1
+    path: Assets/Scenes/bull.unity
+    guid: dbc93853ac7b2174f85a3f2a4bb59223
+  - enabled: 1
+    path: Assets/Scenes/camel.unity
+    guid: 6b81c29563f6e3a4da60b49d9f65edfb
+  - enabled: 1
+    path: Assets/Scenes/cheetah.unity
+    guid: 5ad241053c60f6c418ddce9841a20477
+  - enabled: 1
+    path: Assets/Scenes/Chimpanzee.unity
+    guid: ea41a84fb55740d40988e3ef0bcb79fe
+  - enabled: 1
+    path: Assets/Scenes/Crocodile.unity
+    guid: 97e7cb0f7840d42499c40a463cb06d60
+  - enabled: 1
+    path: Assets/Scenes/deer.unity
+    guid: f2c54b72ac2559243bcdeb44864879de
+  - enabled: 1
+    path: Assets/Scenes/Dinosaur.unity
+    guid: a3ca4c48fcf3ab0438a2a5dd9531fef2
+  - enabled: 1
+    path: Assets/Scenes/Elephant.unity
+    guid: a3be6deadcf279c45af64a7239dbc7db
+  - enabled: 1
+    path: Assets/Scenes/fox.unity
+    guid: 3a58cdb9f85433242b0325f61c3d5ec5
+  - enabled: 1
+    path: Assets/Scenes/giraffe.unity
+    guid: 358c1b16364b0b549a7fffb8daa360b8
+  - enabled: 1
+    path: Assets/Scenes/Gorilla.unity
+    guid: 57f4844769895dc4cb53d7f19b67190d
+  - enabled: 1
+    path: Assets/Scenes/hyena.unity
+    guid: 5b92c095c73ab5f4497163511f9fe4e4
+  - enabled: 1
+    path: Assets/Scenes/Kangaroo.unity
+    guid: 423a0f5428aa1ed4ba928289514ff64f
+  - enabled: 1
+    path: Assets/Scenes/lion.unity
+    guid: 94d2279711a81724a886b0085c269795
+  - enabled: 1
+    path: Assets/Scenes/Monkey.unity
+    guid: 6f880e636d514b744871f4f24cc22ee2
+  - enabled: 1
+    path: Assets/Scenes/Panda.unity
+    guid: b4992ada2960eb541bcc5d9670e567fc
+  - enabled: 1
+    path: Assets/Scenes/Panther.unity
+    guid: 359dad08a7b991049a970ff614f3a4ef
+  - enabled: 1
+    path: Assets/Scenes/Rabbit.unity
+    guid: fc01b85381e89534da3f356fe30c301d
+  - enabled: 1
+    path: Assets/Scenes/Rhinoceros.unity
+    guid: 7a55c498c6cc96845a46b04307708978
+  - enabled: 1
+    path: Assets/Scenes/wolf.unity
+    guid: 8e6ed6547195c1141bd6a79c0c825404
+  - enabled: 1
+    path: Assets/Scenes/zebra.unity
+    guid: df1d21e59c5fbd44ea9bb1cffcaea824
+  - enabled: 1
+    path: Assets/Scenes/tiger.unity
+    guid: 35dc017c765ddb84da1840b1352e3aa8
+  m_configObjects: {}
